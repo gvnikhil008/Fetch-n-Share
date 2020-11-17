@@ -33,7 +33,7 @@
   <header id="header" class="hoc clear"> 
     
       <div id="logo" style="align-content: center">
-   <center>   <h3 style="font-family: Poppins-Regular;font-size: 24px; padding: 20px;"><a style="text-decoration: none; " href="index.html" >Efficient Multi Resource Sharing Mechanism in Cloud Based Applications</a></h3></center>
+   <center>   <h3 style="font-family: Poppins-Regular;font-size: 24px; padding: 20px;"><a style="text-decoration: none; " href="index.html" >Fetch n Share</a></h3></center>
     </div>
   </header>
 </div>
@@ -45,13 +45,12 @@
       <li><a style="text-decoration: none;" href="index.html">Home</a></li>
       <li class="active"><a style="text-decoration: none;" href="Ownesginup.jsp">Data Owner</a></li>
       <li><a style="text-decoration: none;" href="UserSignup.jsp">Data User</a></li>
-      <li><a style="text-decoration: none;" href="cloudService.jsp">Cloud Service</a></li>
-      <li><a href="#">Cloud</a></li>
+      <li><a href="Admin.jsp">Admin</a></li>
     </ul>
     
   </nav>
 </div>
-    <div style="background-image: url(images/b2.jpg); background-repeat:no-repeat; background-position:center; background-size:cover;">
+    <div style="background-image: url(images/y.png); background-repeat:no-repeat; background-position:center; background-size:cover;">
     <div>
         <center> <br><h1 style="color: whitesmoke"> Owner Signup</h1> <%
                                             String msg = request.getParameter("msg");
@@ -101,7 +100,7 @@
 					</div>
                              <br>
 
-                <a href="osignin.jsp"> Already register? sign in here</a>                
+                <a href="osignin.jsp"> Already registered? sign in here</a>                
 					
 				
 			</div>
@@ -114,9 +113,6 @@
         <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
 
-    <p class="fl_left">Copyright &copy; 2020 - All Rights Reserved - <a href="index.html">MARSCO</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="index.html">Nikhil</a></p>
-  
   </div>
 </div>
 <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>

@@ -181,7 +181,7 @@ span.psw {
   <header id="header" class="hoc clear"> 
     
       <div id="logo" style="align-content: center">
-   <center>   <h3 style="font-family: Poppins-Regular;font-size: 24px; padding: 20px;"><a style="text-decoration: none; " href="index.html" >Efficient Multi Resource Sharing Mechanism in Cloud Based Applications</a></h3></center>
+   <center>   <h3 style="font-family: Poppins-Regular;font-size: 24px; padding: 20px;"><a style="text-decoration: none; " href="index.html" >Fetch n Share</a></h3></center>
     </div>
   </header>
 </div>
